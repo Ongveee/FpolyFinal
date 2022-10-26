@@ -1,0 +1,49 @@
+nz-select {
+    width: 200px;
+  }
+  .do{
+    background-color: rgb(151, 219, 130);
+    color: rgb(151, 219, 130);
+}
+.xanh{
+    background-color: white;
+}
+.disable{
+    pointer-events: none;
+}
+.xam{
+    color: gray;
+}
+
+.login-form {
+    max-width: 300px;
+  }
+
+  .login-form-margin {
+    margin-bottom: 16px;
+  }
+
+  .login-form-forgot {
+    float: right;
+  }
+
+  .login-form-button {
+    width: 100%;
+  }
+  .example-input{
+    height: 40px;
+    width: 200px;
+  }
+  nz-date-picker {
+    margin: 0 8px 12px 0;
+  }
+
+  [nz-carousel-content] {
+    text-align: center;
+    height: 500px;
+    line-height: 500px;
+    //background: red;
+    background-image: url("/../../assets/icon/kiet-tac-cua-thien-nhien-qua-nhung-hinh-anh-dep-6.jpg");
+    color: #fff;
+    overflow: hidden;
+  }
